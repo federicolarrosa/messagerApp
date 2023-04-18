@@ -35,6 +35,7 @@ class MainActivity : ComponentActivity() {
                         // prueba
                         //prueba2
                         //prueba3
+                        //prubeas
                        // UserList()
                         ChatScreen(Modifier.padding(PaddingValues)/*,messages = messages*/)
                     }
